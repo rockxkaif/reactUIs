@@ -64,7 +64,7 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-text-light font-semibold mb-4">Connect</h3>
             <div className="flex space-x-4">
-              <a href="https://github.com/rockxkaif/reactUI" target="_blank" rel="noopener noreferrer" className="text-text-light/70 hover:text-accent-1 transition-colors">
+              <a href="https://github.com/rockxkaif" target="_blank" rel="noopener noreferrer" className="text-text-light/70 hover:text-accent-1 transition-colors">
                 <Github size={20} />
               </a>
               <a href="mailto:kaifakhtar121@gmail.com" className="text-text-light/70 hover:text-accent-1 transition-colors">
