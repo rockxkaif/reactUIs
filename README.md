@@ -13,7 +13,7 @@ Crafted with ❤️ by **Kaif Ansari (rockxkaif)**
 ---
 
 ### 🌐 Live Demo  
-🔗 **https://react-ui-awesome.netlify.app**
+🔗 **[https://react-ui-awesome.netlify.app](https://reactuikaif.netlify.app/components)**
 
 </div>
 
@@ -99,8 +99,10 @@ npm run build
 
 (Add your images here later)
 
-![Preview 1](./screenshots/preview1.png)
-![Preview 2](./screenshots/preview2.png)
+<img width="1892" height="860" alt="image" src="https://github.com/user-attachments/assets/7b6ab173-9ffc-4e09-a67a-cd767fb40621" />
+
+<img width="1898" height="861" alt="image" src="https://github.com/user-attachments/assets/0b9ac4ca-94b4-41c2-a19b-492790cb8bc3" />
+
 
 🤝 Contributing
 git checkout -b feature/NewFeature
