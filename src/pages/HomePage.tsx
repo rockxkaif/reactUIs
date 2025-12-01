@@ -112,7 +112,7 @@ const HomePage: React.FC = () => {
                   Explore All Components <ArrowRight size={18} className="ml-2" />
                 </Link>
                 <a 
-                  href="https://github.com/rockxkaif/reactUI" 
+                  href="https://github.com/rockxkaif/reactUIs" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="px-6 py-3 bg-glass-light backdrop-blur-sm text-text-light font-medium rounded-lg hover:bg-glass-light/80 hover:border-accent-1 border border-glass-border transition-all duration-300 flex items-center justify-center"
