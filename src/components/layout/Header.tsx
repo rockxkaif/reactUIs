@@ -43,7 +43,7 @@ const Header: React.FC = () => {
             Showcase
           </Link>
           <a 
-            href="https://github.com/rockxkaif/reactUI" 
+            href="https://github.com/rockxkaif/reactUIs" 
             target="_blank" 
             rel="noopener noreferrer"
             className="px-4 py-2 bg-gradient-to-r from-accent-1 to-accent-2 text-text-dark rounded-lg hover:shadow-lg hover:shadow-accent-1/50 transition-all duration-300 font-medium"
@@ -88,7 +88,7 @@ const Header: React.FC = () => {
               Showcase
             </Link>
             <a 
-              href="https://github.com/rockxkaif/reactUI" 
+              href="https://github.com/rockxkaif/reactUIs" 
               target="_blank" 
               rel="noopener noreferrer"
               className="px-4 py-2 bg-gradient-to-r from-accent-1 to-accent-2 text-text-dark rounded-lg hover:shadow-lg hover:shadow-accent-1/50 transition-all duration-300 inline-block font-medium"
