@@ -77,19 +77,6 @@ Built with **TypeScript + Vite + TailwindCSS**, the components are clean, fast, 
 
 ---
 
-# 📁 **Project Structure**
-
-reactUIs/
-├── src/
-│ ├── components/ # UI components
-│ ├── pages/ # Demo pages
-│ ├── assets/ # Images
-│ ├── styles/ # Global CSS
-│ └── App.tsx
-├── public/
-└── package.json
-
-
 ---
 
 # ⚙️ **Installation & Setup**
